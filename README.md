@@ -63,8 +63,7 @@ UI Framework: Inspired by modern design principles for a seamless user experienc
 Contact
 For questions or support, feel free to reach out to the project maintainer:
 
-Email: your.email@example.com
-LinkedIn: Your LinkedIn Profile
+Email:safakhaleel2005@gmail.com
 Project File Structure:
 /Wanderlust-A-Personalized-Travel-Planning-and-Tracking-App-main
 ├── README.md
